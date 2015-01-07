@@ -8,7 +8,7 @@
   },
   "source": {
     "git": "https://github.com/texel/ReactiveCocoa.git",
-    "branch": "podspec"
+    "tag": "v2.4.4"
   },
   "license": {
     "type": "MIT",
