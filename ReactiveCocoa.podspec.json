@@ -7,8 +7,8 @@
     "Josh Abernathy": "josh@github.com"
   },
   "source": {
-    "git": "https://github.com/ReactiveCocoa/ReactiveCocoa.git",
-    "tag": "v2.4.2"
+    "git": "https://github.com/texel/ReactiveCocoa.git",
+    "branch": "podspec"
   },
   "license": {
     "type": "MIT",
